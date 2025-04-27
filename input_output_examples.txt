@@ -1,0 +1,27 @@
+SquareRootCalculator.java
+Input:
+- Number: -16
+
+Output:
+Error: Cannot calculate the square root of a negative number.
+
+---
+
+ATMWithdrawal.java
+Input:
+- PIN: 1234
+- Withdraw Amount: 5000
+
+Output:
+Error: Insufficient balance.
+Current Balance: 3000
+
+---
+
+UniversityEnrollment.java
+Input:
+- Enroll in Course: Advanced Java
+- Prerequisite Completed: No
+
+Output:
+Error: PrerequisiteNotMetException - Complete Core Java before enrolling in Advanced Java.
